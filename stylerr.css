@@ -1,0 +1,65 @@
+img{
+    border-radius: 150px;
+    height: 200px;
+    width:200px;
+}
+.gok{
+    margin-top:45px;
+    color:rgb(133, 109, 109);
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+
+}
+.ul{
+    
+    color:rgb(133, 109, 109);
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    
+
+}
+.remo{
+    
+    Color:rgb(133, 109, 109);
+    font-weight: bold;
+}
+i{
+
+
+}
+.van{
+    color:rgb(133, 109, 109);
+    font-weight: bold;
+
+}
+.nila{
+    COLOR:rgb(114, 92, 92);
+}
+.my{
+   COLOR:rgb(107, 66, 66);
+}
+.kum{
+    COLOR:rgb(146, 89, 89);
+}
+li{
+    display:inline;
+    height:50px;
+    width: 30px;
+    background-color:rgb(148, 104, 83);
+    padding: 20px;
+    color: aliceblue;
+    cursor:pointer;
+    
+}
+nav{
+    margin:none;
+    background-color: rgb(148, 104, 83);
+    padding: 10px;
+    text-align: right;
+    
+}
+li:hover{
+    color:chocolate;
+}

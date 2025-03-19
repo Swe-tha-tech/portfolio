@@ -39,12 +39,7 @@ h1{
     vertical-align: top;
     margin-top: 100px;
 }
-h3{
-    font-style: oblique;
-     display: inline-block;
-    margin-right: 100px;
-    margin-bottom: 30px;
-}
+
 button{
     padding: 20px;
     background-color: rgb(14, 9, 4);
@@ -86,12 +81,52 @@ button:active{
 
     }
     .sp{
-        color:rgb(180, 85, 85);
-        background-color: rgb(10, 10, 10);
-        margin-right: 450px;
+        color:rgb(102, 74, 43);
+        background-color:rgb(240, 229, 216);
+        text-align: center;
+        display:block;
     }
     .you{
         font-weight:bold;
         color:bisque;
     }
-    
+    .para{
+        margin-left:400px;
+        font-style:oblique;
+        font-weight: bold;
+        margin-top: 20px;
+
+
+}
+.div1{
+    height:1071x;
+    width:1500x;
+    background-color:bisque;
+    margin-left :0;
+}
+.hello{
+    background-color:antiquewhite;
+    text-align:center;
+}
+.image{
+   margin-left:500px;
+   margin-bottom: 50px;
+}
+
+.random{
+    text-align: center;
+    color:rgb(24, 22, 21);
+    margin-top: 0;
+    margin-left:0;
+    margin-top:5px;
+
+}
+.tax{
+}
+.tom{
+display:flex;
+
+}
+.smile{
+    margin-left: 450px;
+}
